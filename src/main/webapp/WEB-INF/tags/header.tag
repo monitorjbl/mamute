@@ -18,56 +18,56 @@
 <tags:brutal-include value="metas" />
 
 <!-- build:css /css/mamute/mamute.css -->
-<link rel="stylesheet" href="/css/mamute/reset.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/reset.css">
 
-<link rel="stylesheet" href="/css/deps/fontello.css">
-<link rel="stylesheet" href="/css/deps/fontello-codes.css">
-<link rel="stylesheet" href="/css/deps/fontello-embedded.css">
-<link rel="stylesheet" href="/css/deps/fontello-ie7-codes.css">
-<link rel="stylesheet" href="/css/deps/fontello-ie7.css">
-<link rel="stylesheet" href="/css/deps/pagedown.css">
-<link rel="stylesheet" href="/css/deps/prettify.css">
-<link rel="stylesheet" href="/css/deps/joyride-2.0.3.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/fontello.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/fontello-codes.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/fontello-embedded.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/fontello-ie7-codes.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/fontello-ie7.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/pagedown.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/prettify.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/joyride-2.0.3.css">
 
-<link rel="stylesheet" href="/css/mamute/404.css">
-<link rel="stylesheet" href="/css/mamute/about.css">
-<link rel="stylesheet" href="/css/mamute/ads.css">
-<link rel="stylesheet" href="/css/mamute/answer.css">
-<link rel="stylesheet" href="/css/mamute/button.css">
-<link rel="stylesheet" href="/css/mamute/comments.css">
-<link rel="stylesheet" href="/css/mamute/footer.css">
-<link rel="stylesheet" href="/css/mamute/form.css">
-<link rel="stylesheet" href="/css/mamute/generics.css">
-<link rel="stylesheet" href="/css/mamute/icons.css">
-<link rel="stylesheet" href="/css/mamute/list-question.css">
-<link rel="stylesheet" href="/css/mamute/main-header.css">
-<link rel="stylesheet" href="/css/mamute/main-menu.css">
-<link rel="stylesheet" href="/css/mamute/main-tags.css">
-<link rel="stylesheet" href="/css/mamute/mamute-joyride.css">
-<link rel="stylesheet" href="/css/mamute/markdown.css">
-<link rel="stylesheet" href="/css/mamute/messages.css">
-<link rel="stylesheet" href="/css/mamute/moderator.css">
-<link rel="stylesheet" href="/css/mamute/news.css">
-<link rel="stylesheet" href="/css/mamute/pagination.css">
-<link rel="stylesheet" href="/css/mamute/ranking.css">
-<link rel="stylesheet" href="/css/mamute/second-header.css">
-<link rel="stylesheet" href="/css/mamute/show-question.css">
-<link rel="stylesheet" href="/css/mamute/sidebar.css">
-<link rel="stylesheet" href="/css/mamute/subheader.css">
-<link rel="stylesheet" href="/css/mamute/tags.css">
-<link rel="stylesheet" href="/css/mamute/text.css">
-<link rel="stylesheet" href="/css/mamute/user.css">
-<link rel="stylesheet" href="/css/mamute/vote.css">
-<link rel="stylesheet" href="/css/mamute/default.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/404.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/about.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/ads.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/answer.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/button.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/comments.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/footer.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/form.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/generics.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/icons.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/list-question.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/main-header.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/main-menu.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/main-tags.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/mamute-joyride.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/markdown.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/messages.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/moderator.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/news.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/pagination.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/ranking.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/second-header.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/show-question.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/sidebar.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/subheader.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/tags.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/text.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/user.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/vote.css">
+<link rel="stylesheet" href="${contextPath}/css/mamute/default.css">
 
-<link rel="stylesheet" href="/css/deps/pickadate/classic.css">
-<link rel="stylesheet" href="/css/deps/pickadate/classic.date.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/pickadate/classic.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/pickadate/classic.date.css">
 <!-- endbuild -->
 
-<link rel="stylesheet" href="/css/deps/custom.css">
+<link rel="stylesheet" href="${contextPath}/css/deps/custom.css">
 
 <!--[if lt IE 9]>
-	<script src="<c:url value="/js/deps/html5shiv.js"/>"></script>
+	<script src="<c:url value="${contextPath}/js/deps/html5shiv.js"/>"></script>
 <![endif]-->
 
 <!--[if lte IE 8]>
